@@ -1,0 +1,5 @@
+Cluster 0: photo, style, check, huffpost, look, home, day, facebook, pinterest, twitter
+Cluster 1: child, kid, parent, family, school, time, mom, need, parenting, thing
+Cluster 2: trump, donald, president, say, republican, said, gop, clinton, campaign, house
+Cluster 3: food, eat, healthy, diet, eating, calorie, drug, best, year, restaurant
+Cluster 4: new, time, year, life, people, day, like, make, say, thing

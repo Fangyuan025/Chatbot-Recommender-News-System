@@ -1,0 +1,4 @@
+Cluster 1: photo, video, look, home, week, style, fashion, check, want, best
+Cluster 2: year, time, new, people, life, say, make, way, child, like
+Cluster 3: trump, thing, know, donald, day, want, time, like, dont, life
+Cluster 4: trump, donald, president, new, republican, gop, clinton, said, house, election

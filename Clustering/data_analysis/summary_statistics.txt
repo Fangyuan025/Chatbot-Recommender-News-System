@@ -1,0 +1,7 @@
+Total articles: 8862
+Average word count: 12.269239449334236
+Median word count: 11.0
+Min word count: 3
+Max word count: 97
+Number of categories: 15
+Most common category: POLITICS
